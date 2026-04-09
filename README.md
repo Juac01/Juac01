@@ -1,6 +1,6 @@
-## 💻 Skills & Expertise
+## Skills
 
-### 👨‍💻 Languages
+### Languages
 
 <img align="left" alt="Java" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 <img align="left" alt="Swift" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" />
@@ -12,7 +12,7 @@
 <br />
 <br />
 
-### 🛠️ Tools & Technologies
+### Tools & Technologies
 
 <img align="left" alt="Spring" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
 <img align="left" alt="REST API" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
@@ -23,7 +23,7 @@
 <br />
 <br />
 
-### 🧰 IDEs & Environments
+### IDEs & Environments
 
 <img align="left" alt="IntelliJ" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
 <img align="left" alt="Eclipse" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" />
@@ -34,7 +34,7 @@
 <br />
 <br />
 
-### 🔐 Cybersecurity
+### Cybersecurity
 
 <img align="left" alt="Linux" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 
