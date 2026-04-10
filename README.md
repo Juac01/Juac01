@@ -1,3 +1,78 @@
+# Olá, eu sou o Joaquin 👋
+
+> Transicionando para a área de Cybersegurança com foco em **SOC Analyst**.
+> Combinando background em desenvolvimento com habilidades defensivas e análise de ameaças.
+
+---
+
+### Certificações & Cursos
+
+<table align="center" valign="top" width="100%">
+  <thead>
+    <tr>
+      <th width="40%">Certificação / Curso</th>
+      <th width="30%">Instituição</th>
+      <th width="30%">Status</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>CompTIA Network+</td>
+      <td>CompTIA</td>
+      <td><img src="https://img.shields.io/badge/Em%20prepara%C3%A7%C3%A3o-F0A500?style=flat&logoColor=white"/></td>
+    </tr>
+    <tr>
+      <td> Defesa Cibernética Analista SOC na Prática</td>
+      <td>IBSEC</td>
+      <td><img src="https://img.shields.io/badge/Em%20andamento-0A84FF?style=flat&logoColor=white"/></td>
+    </tr>
+    <tr>
+      <td>TryHackMe — SOC Level 1</td>
+      <td>TryHackMe</td>
+      <td><img src="https://img.shields.io/badge/Em%20andamento-0A84FF?style=flat&logoColor=white"/></td>
+    </tr>
+  </tbody>
+</table>
+
+> 💡 *Atualizando conforme avanço nos estudos. Veja todos os badges em [credly.com/users/joaquinjulcamoro](https://credly.com/users/joaquinjulcamoro).*
+
+---
+
+
+### Cyber & Forense Tools
+
+<table align="center" valign="top" width="100%">
+  <thead>
+    <tr>
+      <th width="34%">Network & Recon</th>
+      <th width="33%">Labs & Practice</th>
+      <th width="33%">Systems</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" valign="top">
+        <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white" height="28"/>
+        <img src="https://img.shields.io/badge/Nmap-214478?style=flat&logo=nmap&logoColor=white" height="28"/>
+        <img src="https://img.shields.io/badge/Metasploit-2596CD?style=flat&logo=metasploit&logoColor=white" height="28"/>
+        <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white" height="28"/>
+      </td>
+      <td align="center" valign="top">
+        <img src="https://img.shields.io/badge/TryHackMe-212C42?style=flat&logo=tryhackme&logoColor=white" height="28"/>
+      </td>
+      <td align="center" valign="top">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="30" hspace="5"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="30" hspace="5"/>
+        <img src="https://cdn.simpleicons.org/apple/white" width="30" hspace="5"/>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+---
+
+
+## Skills 
 
 <table width="100%">
   <thead>
@@ -5,14 +80,13 @@
       <th width="25%">Languages</th>
       <th width="35%">Tools & Tech</th>
       <th width="20%">IDEs</th>
-      <th width="20%">Cyber & Systems</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td align="center" valign="top">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30" hspace="5"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="30"hspace="5"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="30" hspace="5"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" hspace="5"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" hspace="5"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30" hspace="5"/>
@@ -40,21 +114,18 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30" hspace="5"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" width="30" hspace="5"/>
       </td>
-      <td align="center" valign="top">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="30" hspace="5"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="30" hspace="5"/>
-        <img src="https://cdn.simpleicons.org/apple/white" width="30" hspace="5"/>
-      </td>
     </tr>
   </tbody>
 </table>
 
+---
 
-<!--
-https://github.community/t/support-theme-context-for-images-in-light-vs-dark-mode/147981/84
--->
-<a href="https://github.com/Juac01/readme">
-<img src="https://github.com/Juac01/readme/blob/master/generated/overview.svg#gh-dark-mode-only" />
-<img src="https://github.com/Juac01/readme/blob/master/generated/languages.svg#gh-dark-mode-only" />
-</a>
+<br/>
 
+<!-- https://github.community/t/support-theme-context-for-images-in-light-vs-dark-mode/147981/84 -->
+<div align="center">
+  <a href="https://github.com/Juac01/readme">
+    <img src="https://github.com/Juac01/readme/blob/master/generated/overview.svg#gh-dark-mode-only" />
+    <img src="https://github.com/Juac01/readme/blob/master/generated/languages.svg#gh-dark-mode-only" />
+  </a>
+</div>
