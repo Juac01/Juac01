@@ -1,6 +1,6 @@
 # Olá, eu sou o Joaquin 👋
 
-> Transicionando para a área de Cybersegurança com foco em **SOC Analyst**.
+> Transicionando para a área de **Cybersegurança** com foco em **SOC Analyst**.
 > Combinando background em desenvolvimento de software, lógica, sistemas e análise técnica, atuando em diferentes camadas da tecnologia, do frontend ao backend e mobile.
 
 ---
