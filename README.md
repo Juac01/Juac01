@@ -1,7 +1,7 @@
 # Olá, eu sou o Joaquin 👋
 
 > Transicionando para a área de Cybersegurança com foco em **SOC Analyst**.
-> Combinando background em desenvolvimento com habilidades defensivas e análise de ameaças.
+> Combinando background em desenvolvimento de software, lógica, sistemas e análise técnica, atuando em diferentes camadas da tecnologia, do frontend ao backend e mobile.
 
 ---
 
@@ -44,9 +44,10 @@
 <table align="center" valign="top" width="100%">
   <thead>
     <tr>
-      <th width="34%">Network & Recon</th>
-      <th width="33%">Labs & Practice</th>
-      <th width="33%">Systems</th>
+      <th width="25%">Network & Recon</th>
+            <th width="25%">SOC & Monitoring</th>
+      <th width="25%">Labs & Practice</th>
+      <th width="25%">Systems</th>
     </tr>
   </thead>
   <tbody>
@@ -57,6 +58,15 @@
         <img src="https://img.shields.io/badge/Metasploit-2596CD?style=flat&logo=metasploit&logoColor=white" height="28"/>
         <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white" height="28"/>
       </td>
+          <td align="center" valign="top">
+        <img src="https://img.shields.io/badge/SIEM-5C4EE5?style=flat&logo=elastic&logoColor=white" height="26"/>
+        <br/><br/>
+        <img src="https://img.shields.io/badge/Splunk-000000?style=flat&logo=splunk&logoColor=white" height="26"/>
+        <br/><br/>
+        <img src="https://img.shields.io/badge/IPS%20%2F%20IDS-E8710A?style=flat&logo=fortinet&logoColor=white" height="26"/>
+        <br/><br/>
+        <img src="https://img.shields.io/badge/Firewall-CC0000?style=flat&logo=paloaltonetworks&logoColor=white" height="26"/>
+      </td>
       <td align="center" valign="top">
         <img src="https://img.shields.io/badge/TryHackMe-212C42?style=flat&logo=tryhackme&logoColor=white" height="28"/>
       </td>
@@ -64,10 +74,13 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="30" hspace="5"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="30" hspace="5"/>
         <img src="https://cdn.simpleicons.org/apple/white" width="30" hspace="5"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" width="30" hspace="5"/>
       </td>
     </tr>
   </tbody>
 </table>
+
+> 💡 *As ferramentas de SOC & Monitoramento representado acima. Splunk, SIEM, IPS/IDS e Firewall estão sendo estudados no curso IBSEC SOC na Prática.*
 
 ---
 
