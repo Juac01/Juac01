@@ -18,18 +18,18 @@
   <tbody>
     <tr>
       <td>CompTIA Network+</td>
-      <td>CompTIA</td>
-      <td><img src="https://img.shields.io/badge/Em%20prepara%C3%A7%C3%A3o-F0A500?style=flat&logoColor=white"/></td>
+      <td  align="center">CompTIA</td>
+      <td align="center"  ><img src="https://img.shields.io/badge/Em%20prepara%C3%A7%C3%A3o-F0A500?style=flat&logoColor=white"/></td>
     </tr>
     <tr>
       <td> Defesa Cibernética Analista SOC na Prática</td>
-      <td>IBSEC</td>
-      <td><img src="https://img.shields.io/badge/Em%20andamento-0A84FF?style=flat&logoColor=white"/></td>
+      <td  align="center">IBSEC</td>
+      <td align="center"  ><img src="https://img.shields.io/badge/Em%20andamento-0A84FF?style=flat&logoColor=white"/></td>
     </tr>
     <tr>
       <td>TryHackMe — SOC Level 1</td>
-      <td>TryHackMe</td>
-      <td><img src="https://img.shields.io/badge/Em%20andamento-0A84FF?style=flat&logoColor=white"/></td>
+      <td  align="center">TryHackMe</td>
+      <td align="center"  ><img src="https://img.shields.io/badge/Em%20andamento-0A84FF?style=flat&logoColor=white"/></td>
     </tr>
   </tbody>
 </table>
@@ -80,7 +80,7 @@
   </tbody>
 </table>
 
-> 💡 *As ferramentas de SOC & Monitoramento representado acima. Splunk, SIEM, IPS/IDS e Firewall estão sendo estudados no curso IBSEC SOC na Prática.*
+> 💡 *As ferramentas de SOC & Monitoramento representado acima. Splunk, SIEM, IPS/IDS e Firewall estão sendo estudados no curso Defesa Cibernética Analista SOC na Prática da IBSEC .*
 
 ---
 
