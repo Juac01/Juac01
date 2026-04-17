@@ -26,6 +26,11 @@
       <td  align="center">IBSEC</td>
       <td align="center"  ><img src="https://img.shields.io/badge/Em%20andamento-0A84FF?style=flat&logoColor=white"/></td>
     </tr>
+     <tr>
+      <td>Forense Digital e Investigação Cibernética </td>
+      <td  align="center">DARYUS</td>
+      <td align="center"  ><img src="https://img.shields.io/badge/Em%20andamento-0A84FF?style=flat&logoColor=white"/></td>
+    </tr>
   </tbody>
 </table>
 
