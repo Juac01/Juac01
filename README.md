@@ -1,7 +1,7 @@
 # Olá, eu sou o Joaquin 👋
 
-> Transicionando para a área de **Cybersegurança** com foco em **SOC Analyst**.
-> Combinando background em desenvolvimento de software, lógica, sistemas e análise técnica, atuando em diferentes camadas da tecnologia, do frontend ao backend e mobile.
+> Em transição para Cybersecurity, com foco em SOC e Forense Digital (DFIR).
+> Background em desenvolvimento de software (Web & iOS), aplicando conhecimentos em análise de logs, detecção de ameaças e resposta a incidentes.
 
 ---
 
@@ -24,11 +24,6 @@
     <tr>
       <td> Defesa Cibernética Analista SOC na Prática</td>
       <td  align="center">IBSEC</td>
-      <td align="center"  ><img src="https://img.shields.io/badge/Em%20andamento-0A84FF?style=flat&logoColor=white"/></td>
-    </tr>
-    <tr>
-      <td>TryHackMe — SOC Level 1</td>
-      <td  align="center">TryHackMe</td>
       <td align="center"  ><img src="https://img.shields.io/badge/Em%20andamento-0A84FF?style=flat&logoColor=white"/></td>
     </tr>
   </tbody>
@@ -55,7 +50,6 @@
       <td align="center" valign="top">
         <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white" height="28"/>
         <img src="https://img.shields.io/badge/Nmap-214478?style=flat&logo=nmap&logoColor=white" height="28"/>
-        <img src="https://img.shields.io/badge/Metasploit-2596CD?style=flat&logo=metasploit&logoColor=white" height="28"/>
         <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white" height="28"/>
       </td>
           <td align="center" valign="top">
